@@ -14,7 +14,7 @@ header #first-child-header{
 
 nav ul li a {
     color: #FFFFFF;
-    border-bottom-color: 1px solid #FFFFFF;
+    border-bottom: 1px solid transparent;
     font-size: 15px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
@@ -22,5 +22,5 @@ nav ul li a {
 
 nav ul li a:hover{
     color: #f8f8f8;
-    border-bottom: 1px solid transparent;
+    border-bottom-color: #FFFFFF;
 }
