@@ -22,6 +22,13 @@ h2 {
     font-weight: bold;
 }
 
+h5 {
+    color: #171629;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
 h6 {
     color: #171629;
     font-family: 'Montserrat', sans-serif;
@@ -117,7 +124,7 @@ section#content-mobile-first {
     padding: 60px 0;
 }
 
-section#content-mobile-first p{
+section#content-mobile-first p {
     margin: 30px 0;
 }
 
@@ -135,4 +142,22 @@ section#content-mobile-first p{
 .link:hover {
     background: #171629;
     color: #FFFFFF;
+}
+
+section#services .service {
+    background: #171629;
+    height: 390px;
+    display: flex;
+    color: #FFFFFF;
+    align-items: center;
+    text-align: center;
+}
+
+section#services .service p {
+    color: #FFFFFF;
+}
+
+section#services .service h5 {
+    color: #FFFFFF;
+    margin: 20px 0;
 }
