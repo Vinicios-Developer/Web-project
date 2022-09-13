@@ -16,7 +16,7 @@ h1 {
 }
 
 h2 {
-    color: #000000;
+    color: #171629;
     font-family: 'Montserrat', sans-serif;
     font-size: 40px;
     font-weight: bold;
@@ -212,8 +212,45 @@ section#process p {
     width: 100px;
     height: 5px;
     background: #FFFFFF;
+    margin: 30px;
 }
 
 .margin-top-30 {
     margin-top: 30px;
+}
+
+section#blog {
+    padding: 60px 0;
+}
+
+section#blog div {
+    align-items: center;
+}
+
+section#blog img {
+    margin: 20px;
+}
+
+.separator-blog {
+    margin: 30px 0;
+    width: 670px;
+    height: 5px;
+    background: #D9D9D9;
+}
+
+section#blog h2 {
+    margin-bottom: 60px;
+}
+
+footer {
+    background: #171629;
+    padding: 60px 0;
+}
+
+footer p {
+    color: #FFFFFF;
+}
+
+footer nav ul li a.nav-link {
+    padding-left: 0px;
 }
