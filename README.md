@@ -1,2 +1,2 @@
 # Web-project
-Site completo com HTML e CSS
+Landing page com Bootstrap, HTML e CSS. Apenas para estudo!
